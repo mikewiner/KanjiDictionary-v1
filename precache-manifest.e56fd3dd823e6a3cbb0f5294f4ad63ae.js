@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b11b87b62811e40cbf3dc59152519f75",
+    "revision": "1352b87c52d912013bc4a17e8472f0a5",
     "url": "/KanjiDictionary-v1/index.html"
   },
   {
