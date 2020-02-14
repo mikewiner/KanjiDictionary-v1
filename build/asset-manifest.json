@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec9b15b7.chunk.css",
-    "main.js": "/static/js/main.03892a7f.chunk.js",
-    "main.js.map": "/static/js/main.03892a7f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b2109bab.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b2109bab.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.fca5fd9d.chunk.js": "/static/js/2.fca5fd9d.chunk.js",
-    "static/js/2.fca5fd9d.chunk.js.map": "/static/js/2.fca5fd9d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.024a2f06c9c29416cb159a8adbbf8c7c.js": "/precache-manifest.024a2f06c9c29416cb159a8adbbf8c7c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.ec9b15b7.chunk.css.map": "/static/css/main.ec9b15b7.chunk.css.map",
-    "static/js/2.fca5fd9d.chunk.js.LICENSE.txt": "/static/js/2.fca5fd9d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/KanjiDictionary-v1/static/css/main.ab6b66b5.chunk.css",
+    "main.js": "/KanjiDictionary-v1/static/js/main.a9b993d0.chunk.js",
+    "main.js.map": "/KanjiDictionary-v1/static/js/main.a9b993d0.chunk.js.map",
+    "runtime-main.js": "/KanjiDictionary-v1/static/js/runtime-main.294934ac.js",
+    "runtime-main.js.map": "/KanjiDictionary-v1/static/js/runtime-main.294934ac.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/KanjiDictionary-v1/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4920415c.chunk.js": "/KanjiDictionary-v1/static/js/2.4920415c.chunk.js",
+    "static/js/2.4920415c.chunk.js.map": "/KanjiDictionary-v1/static/js/2.4920415c.chunk.js.map",
+    "index.html": "/KanjiDictionary-v1/index.html",
+    "precache-manifest.96fbb260eb3c1e7a7b093858b0c08b1e.js": "/KanjiDictionary-v1/precache-manifest.96fbb260eb3c1e7a7b093858b0c08b1e.js",
+    "service-worker.js": "/KanjiDictionary-v1/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/KanjiDictionary-v1/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.ab6b66b5.chunk.css.map": "/KanjiDictionary-v1/static/css/main.ab6b66b5.chunk.css.map",
+    "static/js/2.4920415c.chunk.js.LICENSE.txt": "/KanjiDictionary-v1/static/js/2.4920415c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/KanjiDictionary-v1/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2109bab.js",
+    "static/js/runtime-main.294934ac.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.fca5fd9d.chunk.js",
-    "static/css/main.ec9b15b7.chunk.css",
-    "static/js/main.03892a7f.chunk.js"
+    "static/js/2.4920415c.chunk.js",
+    "static/css/main.ab6b66b5.chunk.css",
+    "static/js/main.a9b993d0.chunk.js"
   ]
 }
