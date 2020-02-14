@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KanjiDictionary-v1/static/css/main.ab6b66b5.chunk.css",
-    "main.js": "/KanjiDictionary-v1/static/js/main.a9b993d0.chunk.js",
-    "main.js.map": "/KanjiDictionary-v1/static/js/main.a9b993d0.chunk.js.map",
+    "main.js": "/KanjiDictionary-v1/static/js/main.fc3b349d.chunk.js",
+    "main.js.map": "/KanjiDictionary-v1/static/js/main.fc3b349d.chunk.js.map",
     "runtime-main.js": "/KanjiDictionary-v1/static/js/runtime-main.294934ac.js",
     "runtime-main.js.map": "/KanjiDictionary-v1/static/js/runtime-main.294934ac.js.map",
     "static/css/2.eb45ad44.chunk.css": "/KanjiDictionary-v1/static/css/2.eb45ad44.chunk.css",
     "static/js/2.4920415c.chunk.js": "/KanjiDictionary-v1/static/js/2.4920415c.chunk.js",
     "static/js/2.4920415c.chunk.js.map": "/KanjiDictionary-v1/static/js/2.4920415c.chunk.js.map",
     "index.html": "/KanjiDictionary-v1/index.html",
-    "precache-manifest.96fbb260eb3c1e7a7b093858b0c08b1e.js": "/KanjiDictionary-v1/precache-manifest.96fbb260eb3c1e7a7b093858b0c08b1e.js",
+    "precache-manifest.b0cb58c910f894b2023a6b2fe8f6e96b.js": "/KanjiDictionary-v1/precache-manifest.b0cb58c910f894b2023a6b2fe8f6e96b.js",
     "service-worker.js": "/KanjiDictionary-v1/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/KanjiDictionary-v1/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.ab6b66b5.chunk.css.map": "/KanjiDictionary-v1/static/css/main.ab6b66b5.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.4920415c.chunk.js",
     "static/css/main.ab6b66b5.chunk.css",
-    "static/js/main.a9b993d0.chunk.js"
+    "static/js/main.fc3b349d.chunk.js"
   ]
 }
