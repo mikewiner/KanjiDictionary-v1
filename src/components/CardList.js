@@ -9,9 +9,11 @@ const CardList = ({ kanjiList }) => {
 					return (
 						<Card 
 						key={i} 
-						character={kanjiList[i].character} 
-						reading={kanjiList[i].kunyomi+" "+kanjiList[i].onyomi}
+						character={kanjiList[i].character}
+						kunyomi= {kanjiList[i].kunyomi}
+						onyomi={kanjiList[i].onyomi}
 						meaning={kanjiList[i].meaning}
+						jlpt={kanjiList[i].category}
 						/>
 					);
 				})

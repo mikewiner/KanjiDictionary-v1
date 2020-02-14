@@ -33,7 +33,8 @@ class App extends Component {
     const filteredKanji = kanjiList.filter(kanji => {
       return (kanji.kunyomi.includes(searchField) 
         || kanji.character.includes(searchField)
-        || kanji.meaning.toLowerCase().includes(searchField))
+        || kanji.category.toLowerCase().includes(searchField.toLowerCase())
+        || kanji.meaning.toLowerCase().includes(searchField.toLowerCase()))
     })
 
     if (!kanjiList.length){
@@ -41,7 +42,7 @@ class App extends Component {
     } else {
         return(
           <div className='tc '>
-            <h1 className='f1'>Mikes Kanji Dictionary</h1>
+            <h1 className='f1'>漢字　Mikes Kanji Dictionary　時間</h1>
             <SearchBox searchChange={this.searchChange} />
             <Scroll>
               <CardList kanjiList={filteredKanji}/>
